@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-[](./images/Screenshot%202023-10-06%20113331.png)
-[](./images/Screenshot%202023-10-06%20113253.png)
+[](/images/Screenshot%202023-10-08%20134139.png)
+[](/images/Screenshot%202023-10-08%20134209.png)
 
 ### Links
 
-- Live Site URL: https://sanskaari.github.io/Product-preview-card-component/
+- Live Site URL: https://sanskaari.github.io/NFT-preview-card-component/
 
 ## My process
 

@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/Screenshot%202023-10-08%20134139.png)
-![](/images/Screenshot%202023-10-08%20134209.png)
+[](/images/Screenshot%202023-10-08%20134139.png)
+[](/images/Screenshot%202023-10-08%20134209.png)
 
 ### Links
 

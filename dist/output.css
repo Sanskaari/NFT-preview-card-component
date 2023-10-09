@@ -564,6 +564,10 @@ video {
   margin-left: 0.25rem;
 }
 
+.box-border {
+  box-sizing: border-box;
+}
+
 .flex {
   display: flex;
 }
